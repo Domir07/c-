@@ -1,1 +1,2 @@
 C:\Users\wepon\OneDrive\Desktop\Program\Program\x64\Debug\Program.exe
+C:\Users\wepon\OneDrive\Desktop\c-\Program\x64\Debug\Program.exe

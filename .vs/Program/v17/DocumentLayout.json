@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\wepon\\OneDrive\\Desktop\\c-\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE07286-F43B-4F04-B725-92CFC4758F18}|Program\\Program.vcxproj|C:\\Users\\wepon\\OneDrive\\Desktop\\c-\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2AE07286-F43B-4F04-B725-92CFC4758F18}|Program\\Program.vcxproj|solutionrelative:Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43278160-D1D1-4122-8939-8E10EF693B8A}|Class3th (Constructor \u0026 Destructor)\\Class3th (Constructor \u0026 Destructor).vcxproj|C:\\Users\\wepon\\OneDrive\\Desktop\\c-\\Class3th (Constructor \u0026 Destructor)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{43278160-D1D1-4122-8939-8E10EF693B8A}|Class3th (Constructor \u0026 Destructor)\\Class3th (Constructor \u0026 Destructor).vcxproj|solutionrelative:Class3th (Constructor \u0026 Destructor)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\wepon\\OneDrive\\Desktop\\c-\\Class3th (Constructor \u0026 Destructor)\\Source.cpp",
+              "RelativeDocumentMoniker": "Class3th (Constructor \u0026 Destructor)\\Source.cpp",
+              "ToolTip": "C:\\Users\\wepon\\OneDrive\\Desktop\\c-\\Class3th (Constructor \u0026 Destructor)\\Source.cpp",
+              "RelativeToolTip": "Class3th (Constructor \u0026 Destructor)\\Source.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-18T10:56:33.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cpp",
+              "DocumentMoniker": "C:\\Users\\wepon\\OneDrive\\Desktop\\c-\\Program\\Program.cpp",
+              "RelativeDocumentMoniker": "Program\\Program.cpp",
+              "ToolTip": "C:\\Users\\wepon\\OneDrive\\Desktop\\c-\\Program\\Program.cpp",
+              "RelativeToolTip": "Program\\Program.cpp",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAFAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-18T10:56:30.374Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
