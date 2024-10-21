@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{2AE07286-F43B-4F04-B725-92CFC4758F18}|Program\\Program.vcxproj|solutionrelative:Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{75F26084-0F80-4E00-B96F-D761AEA5F7AA}|Class5th (inhentance)\\Class5th (inhentance).vcxproj|C:\\Users\\wepon\\OneDrive\\Desktop\\c-\\Class5th (inhentance)\\Class5th (inhentance).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75F26084-0F80-4E00-B96F-D761AEA5F7AA}|Class5th (inhentance)\\Class5th (inhentance).vcxproj|solutionrelative:Class5th (inhentance)\\Class5th (inhentance).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80237130-9333-4525-9901-EDB23428DDF3}|Class4th (Shallow Copy \u0026 Deep Capy)\\Class4th (Shallow Copy \u0026 Deep Capy).vcxproj|C:\\Users\\wepon\\OneDrive\\Desktop\\c-\\Class4th (Shallow Copy \u0026 Deep Capy)\\Class4th (Shallow Copy \u0026 Deep Capy).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{80237130-9333-4525-9901-EDB23428DDF3}|Class4th (Shallow Copy \u0026 Deep Capy)\\Class4th (Shallow Copy \u0026 Deep Capy).vcxproj|solutionrelative:Class4th (Shallow Copy \u0026 Deep Capy)\\Class4th (Shallow Copy \u0026 Deep Capy).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{43278160-D1D1-4122-8939-8E10EF693B8A}|Class3th (Constructor \u0026 Destructor)\\Class3th (Constructor \u0026 Destructor).vcxproj|C:\\Users\\wepon\\OneDrive\\Desktop\\c-\\Class3th (Constructor \u0026 Destructor)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{43278160-D1D1-4122-8939-8E10EF693B8A}|Class3th (Constructor \u0026 Destructor)\\Class3th (Constructor \u0026 Destructor).vcxproj|solutionrelative:Class3th (Constructor \u0026 Destructor)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -18,17 +26,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Class5th (inhentance).cpp",
+              "DocumentMoniker": "C:\\Users\\wepon\\OneDrive\\Desktop\\c-\\Class5th (inhentance)\\Class5th (inhentance).cpp",
+              "RelativeDocumentMoniker": "Class5th (inhentance)\\Class5th (inhentance).cpp",
+              "ToolTip": "C:\\Users\\wepon\\OneDrive\\Desktop\\c-\\Class5th (inhentance)\\Class5th (inhentance).cpp",
+              "RelativeToolTip": "Class5th (inhentance)\\Class5th (inhentance).cpp",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAswCEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T12:32:18.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class4th (Shallow Copy \u0026 Deep Capy).cpp",
+              "DocumentMoniker": "C:\\Users\\wepon\\OneDrive\\Desktop\\c-\\Class4th (Shallow Copy \u0026 Deep Capy)\\Class4th (Shallow Copy \u0026 Deep Capy).cpp",
+              "RelativeDocumentMoniker": "Class4th (Shallow Copy \u0026 Deep Capy)\\Class4th (Shallow Copy \u0026 Deep Capy).cpp",
+              "ToolTip": "C:\\Users\\wepon\\OneDrive\\Desktop\\c-\\Class4th (Shallow Copy \u0026 Deep Capy)\\Class4th (Shallow Copy \u0026 Deep Capy).cpp",
+              "RelativeToolTip": "Class4th (Shallow Copy \u0026 Deep Capy)\\Class4th (Shallow Copy \u0026 Deep Capy).cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T11:03:49.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\wepon\\OneDrive\\Desktop\\c-\\Class3th (Constructor \u0026 Destructor)\\Source.cpp",
               "RelativeDocumentMoniker": "Class3th (Constructor \u0026 Destructor)\\Source.cpp",
               "ToolTip": "C:\\Users\\wepon\\OneDrive\\Desktop\\c-\\Class3th (Constructor \u0026 Destructor)\\Source.cpp",
               "RelativeToolTip": "Class3th (Constructor \u0026 Destructor)\\Source.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-18T10:56:33.223Z",
               "EditorCaption": ""
@@ -41,7 +75,7 @@
               "RelativeDocumentMoniker": "Program\\Program.cpp",
               "ToolTip": "C:\\Users\\wepon\\OneDrive\\Desktop\\c-\\Program\\Program.cpp",
               "RelativeToolTip": "Program\\Program.cpp",
-              "ViewState": "AQIAADwAAAAAAAAAAAAAAFAAAAAbAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-18T10:56:30.374Z",
               "EditorCaption": ""
