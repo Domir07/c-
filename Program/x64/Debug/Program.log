@@ -1,3 +1,2 @@
-﻿Program.obj : error LNK2019: "public: __cdecl Brush::Brush(void)" (??0Brush@@QEAA@XZ)main 함수에서 참조되는 확인할 수 없는 외부 기호
-Program.obj : error LNK2019: "public: __cdecl Pencil::Pencil(void)" (??0Pencil@@QEAA@XZ)main 함수에서 참조되는 확인할 수 없는 외부 기호
-C:\Users\wepon\OneDrive\Desktop\c-\x64\Debug\Program.exe : fatal error LNK1120: 2개의 확인할 수 없는 외부 참조입니다.
+﻿  Program.cpp
+  Program.vcxproj -> C:\Users\wepon\OneDrive\Desktop\c-\x64\Debug\Program.exe
