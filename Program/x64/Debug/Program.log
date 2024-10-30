@@ -1,2 +1,3 @@
 ﻿  Program.cpp
-C:\Users\wepon\OneDrive\Desktop\c-\Program\Program.cpp(73,22): error C2105: '++'에 l-value가 필요합니다.
+C:\Users\wepon\OneDrive\Desktop\c-\Program\Program.cpp(67,1): warning C4717: 'operator*': 모든 제어 경로에서 재귀적입니다. 함수로 인해 런타임 스택 오버플로가 발생합니다.
+  Program.vcxproj -> C:\Users\wepon\OneDrive\Desktop\c-\x64\Debug\Program.exe
