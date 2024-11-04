@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{2AE07286-F43B-4F04-B725-92CFC4758F18}|Program\\Program.vcxproj|solutionrelative:Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{80237130-9333-4525-9901-EDB23428DDF3}|Class4th (Shallow Copy \u0026 Deep Capy)\\Class4th (Shallow Copy \u0026 Deep Capy).vcxproj|C:\\Users\\wepon\\OneDrive\\Desktop\\c-\\Class4th (Shallow Copy \u0026 Deep Capy)\\Class4th (Shallow Copy \u0026 Deep Capy).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{80237130-9333-4525-9901-EDB23428DDF3}|Class4th (Shallow Copy \u0026 Deep Capy)\\Class4th (Shallow Copy \u0026 Deep Capy).vcxproj|solutionrelative:Class4th (Shallow Copy \u0026 Deep Capy)\\Class4th (Shallow Copy \u0026 Deep Capy).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D37D62A6-C773-4C03-8D75-BE84822A9A74}|Class10th (Template)\\Class10th (Template).vcxproj|C:\\Users\\wepon\\OneDrive\\Desktop\\c-\\Class10th (Template)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D37D62A6-C773-4C03-8D75-BE84822A9A74}|Class10th (Template)\\Class10th (Template).vcxproj|solutionrelative:Class10th (Template)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -91,10 +95,6 @@
       "RelativeMoniker": "D:0:0:{75F26084-0F80-4E00-B96F-D761AEA5F7AA}|Class5th (inhentance)\\Class5th (inhentance).vcxproj|solutionrelative:Class5th (inhentance)\\Class5th (inhentance).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80237130-9333-4525-9901-EDB23428DDF3}|Class4th (Shallow Copy \u0026 Deep Capy)\\Class4th (Shallow Copy \u0026 Deep Capy).vcxproj|C:\\Users\\wepon\\OneDrive\\Desktop\\c-\\Class4th (Shallow Copy \u0026 Deep Capy)\\Class4th (Shallow Copy \u0026 Deep Capy).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{80237130-9333-4525-9901-EDB23428DDF3}|Class4th (Shallow Copy \u0026 Deep Capy)\\Class4th (Shallow Copy \u0026 Deep Capy).vcxproj|solutionrelative:Class4th (Shallow Copy \u0026 Deep Capy)\\Class4th (Shallow Copy \u0026 Deep Capy).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{43278160-D1D1-4122-8939-8E10EF693B8A}|Class3th (Constructor \u0026 Destructor)\\Class3th (Constructor \u0026 Destructor).vcxproj|C:\\Users\\wepon\\OneDrive\\Desktop\\c-\\Class3th (Constructor \u0026 Destructor)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{43278160-D1D1-4122-8939-8E10EF693B8A}|Class3th (Constructor \u0026 Destructor)\\Class3th (Constructor \u0026 Destructor).vcxproj|solutionrelative:Class3th (Constructor \u0026 Destructor)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -110,7 +110,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Hydralisk.cpp",
               "DocumentMoniker": "C:\\Users\\wepon\\OneDrive\\Desktop\\c-\\Program\\Hydralisk.cpp",
               "RelativeDocumentMoniker": "Program\\Hydralisk.cpp",
@@ -118,12 +118,11 @@
               "RelativeToolTip": "Program\\Hydralisk.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-01T12:29:49.748Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-01T12:29:49.748Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\wepon\\OneDrive\\Desktop\\c-\\Class10th (Template)\\Source.cpp",
               "RelativeDocumentMoniker": "Class10th (Template)\\Source.cpp",
@@ -131,12 +130,11 @@
               "RelativeToolTip": "Class10th (Template)\\Source.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-01T12:28:34.668Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-01T12:28:34.668Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Mouse.cpp",
               "DocumentMoniker": "C:\\Users\\wepon\\OneDrive\\Desktop\\c-\\Program\\Mouse.cpp",
               "RelativeDocumentMoniker": "Program\\Mouse.cpp",
@@ -148,7 +146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "source.cpp",
               "DocumentMoniker": "C:\\Users\\wepon\\OneDrive\\Desktop\\c-\\Class9th (Operator Overloading)\\source.cpp",
               "RelativeDocumentMoniker": "Class9th (Operator Overloading)\\source.cpp",
@@ -160,7 +158,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Fruit.cpp",
               "DocumentMoniker": "C:\\Users\\wepon\\OneDrive\\Desktop\\c-\\Program\\Fruit.cpp",
               "RelativeDocumentMoniker": "Program\\Fruit.cpp",
@@ -172,7 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Paint.cpp",
               "DocumentMoniker": "C:\\Users\\wepon\\OneDrive\\Desktop\\c-\\Program\\Paint.cpp",
               "RelativeDocumentMoniker": "Program\\Paint.cpp",
@@ -184,7 +182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Paint.h",
               "DocumentMoniker": "C:\\Users\\wepon\\OneDrive\\Desktop\\c-\\Program\\Paint.h",
               "RelativeDocumentMoniker": "Program\\Paint.h",
@@ -196,7 +194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Pencil.cpp",
               "DocumentMoniker": "C:\\Users\\wepon\\OneDrive\\Desktop\\c-\\Program\\Pencil.cpp",
               "RelativeDocumentMoniker": "Program\\Pencil.cpp",
@@ -208,7 +206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Pencil.h",
               "DocumentMoniker": "C:\\Users\\wepon\\OneDrive\\Desktop\\c-\\Program\\Pencil.h",
               "RelativeDocumentMoniker": "Program\\Pencil.h",
@@ -220,7 +218,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Fruit.h",
               "DocumentMoniker": "C:\\Users\\wepon\\OneDrive\\Desktop\\c-\\Program\\Fruit.h",
               "RelativeDocumentMoniker": "Program\\Fruit.h",
@@ -232,7 +230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Brush.h",
               "DocumentMoniker": "C:\\Users\\wepon\\OneDrive\\Desktop\\c-\\Program\\Brush.h",
               "RelativeDocumentMoniker": "Program\\Brush.h",
@@ -244,7 +242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\wepon\\OneDrive\\Desktop\\c-\\Class8th (Abstract)\\Source.cpp",
               "RelativeDocumentMoniker": "Class8th (Abstract)\\Source.cpp",
@@ -256,7 +254,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\wepon\\OneDrive\\Desktop\\c-\\Class7th (Virtual Function)\\Source.cpp",
               "RelativeDocumentMoniker": "Class7th (Virtual Function)\\Source.cpp",
@@ -268,7 +266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Weapon.h",
               "DocumentMoniker": "C:\\Users\\wepon\\OneDrive\\Desktop\\c-\\Program\\Weapon.h",
               "RelativeDocumentMoniker": "Program\\Weapon.h",
@@ -280,7 +278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Knuckles.h",
               "DocumentMoniker": "C:\\Users\\wepon\\OneDrive\\Desktop\\c-\\Program\\Knuckles.h",
               "RelativeDocumentMoniker": "Program\\Knuckles.h",
@@ -292,7 +290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "Knife.cpp",
               "DocumentMoniker": "C:\\Users\\wepon\\OneDrive\\Desktop\\c-\\Program\\Knife.cpp",
               "RelativeDocumentMoniker": "Program\\Knife.cpp",
@@ -304,7 +302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Knife.h",
               "DocumentMoniker": "C:\\Users\\wepon\\OneDrive\\Desktop\\c-\\Program\\Knife.h",
               "RelativeDocumentMoniker": "Program\\Knife.h",
@@ -322,14 +320,14 @@
               "RelativeDocumentMoniker": "Program\\Program.cpp",
               "ToolTip": "C:\\Users\\wepon\\OneDrive\\Desktop\\c-\\Program\\Program.cpp",
               "RelativeToolTip": "Program\\Program.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAAB4AAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-23T11:05:56.024Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Knuckles.cpp",
               "DocumentMoniker": "C:\\Users\\wepon\\OneDrive\\Desktop\\c-\\Program\\Knuckles.cpp",
               "RelativeDocumentMoniker": "Program\\Knuckles.cpp",
@@ -341,7 +339,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Weapon.cpp",
               "DocumentMoniker": "C:\\Users\\wepon\\OneDrive\\Desktop\\c-\\Program\\Weapon.cpp",
               "RelativeDocumentMoniker": "Program\\Weapon.cpp",
@@ -353,7 +351,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\wepon\\OneDrive\\Desktop\\c-\\Class6th (Polymophism)\\Source.cpp",
               "RelativeDocumentMoniker": "Class6th (Polymophism)\\Source.cpp",
@@ -365,7 +363,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Class5th (inhentance).cpp",
               "DocumentMoniker": "C:\\Users\\wepon\\OneDrive\\Desktop\\c-\\Class5th (inhentance)\\Class5th (inhentance).cpp",
               "RelativeDocumentMoniker": "Class5th (inhentance)\\Class5th (inhentance).cpp",
@@ -377,15 +375,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 1,
               "Title": "Class4th (Shallow Copy \u0026 Deep Capy).cpp",
               "DocumentMoniker": "C:\\Users\\wepon\\OneDrive\\Desktop\\c-\\Class4th (Shallow Copy \u0026 Deep Capy)\\Class4th (Shallow Copy \u0026 Deep Capy).cpp",
               "RelativeDocumentMoniker": "Class4th (Shallow Copy \u0026 Deep Capy)\\Class4th (Shallow Copy \u0026 Deep Capy).cpp",
               "ToolTip": "C:\\Users\\wepon\\OneDrive\\Desktop\\c-\\Class4th (Shallow Copy \u0026 Deep Capy)\\Class4th (Shallow Copy \u0026 Deep Capy).cpp",
               "RelativeToolTip": "Class4th (Shallow Copy \u0026 Deep Capy)\\Class4th (Shallow Copy \u0026 Deep Capy).cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFwAAAAAAAAA",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAFIAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-21T11:03:49.744Z"
+              "WhenOpened": "2024-10-21T11:03:49.744Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
